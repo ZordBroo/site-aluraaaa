@@ -49,4 +49,13 @@ header {
     font-weight: 400;
     font-style: normal;
   }
-  
+  .rodape{
+    background-color: rgb(196, 8, 186);
+    text-align: center;
+}
+
+.rodape-imagem{
+    height: 150px;
+    padding: 12px 0;
+   
+}
